@@ -4,8 +4,6 @@ description: Example of student work from the course.
 file: /courses/11-942-use-of-joint-fact-finding-in-science-intensive-policy-disputes-part-ii-spring-2004/62f3b9b09fb336b190833eb87ecded72_peyser.pdf
 file_size: 19899
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

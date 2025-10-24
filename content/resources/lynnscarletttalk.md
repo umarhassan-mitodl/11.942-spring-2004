@@ -5,8 +5,6 @@ description: A lecture presented to U.S. Geological Survey by P. Lynn Scarlett, 
 file: /courses/11-942-use-of-joint-fact-finding-in-science-intensive-policy-disputes-part-ii-spring-2004/42263e7b2d4e0e0fcdbbb8b94f8f3d7a_lynnscarletttalk.pdf
 file_size: 42448
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

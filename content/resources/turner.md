@@ -4,8 +4,6 @@ description: ''
 file: /courses/11-942-use-of-joint-fact-finding-in-science-intensive-policy-disputes-part-ii-spring-2004/68ddfaa24bb9512fd35195adce917c4a_turner.pdf
 file_size: 991242
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
